@@ -10,8 +10,12 @@
           <option name="url" value="http://gitlab.com" />
           <option name="userName" value="miche.atucha@gmail.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/FabioCZ/NotificationRepeater.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Development/Touwolf" />
+    <option name="cloneParentDir" value="$USER_HOME$/Development/Third" />
   </component>
 </application>
