@@ -18,8 +18,12 @@
           <option name="url" value="https://gitlab.com/touwolf/customers/showshop-app" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/miche.atucha/invoicem-flutter.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Development/Third/showshop" />
+    <option name="cloneParentDir" value="$USER_HOME$/Development/Ajax" />
   </component>
 </application>
