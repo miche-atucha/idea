@@ -11,8 +11,26 @@
     </option>
     <option name="IMPORT_LAYOUT_TABLE">
       <value>
+        <package name="android" withSubpackages="true" static="false" />
+        <emptyLine />
+        <package name="androidx" withSubpackages="true" static="false" />
+        <emptyLine />
+        <package name="com" withSubpackages="true" static="false" />
+        <emptyLine />
+        <package name="junit" withSubpackages="true" static="false" />
+        <emptyLine />
+        <package name="net" withSubpackages="true" static="false" />
+        <emptyLine />
+        <package name="org" withSubpackages="true" static="false" />
+        <emptyLine />
+        <package name="java" withSubpackages="true" static="false" />
+        <emptyLine />
+        <package name="javax" withSubpackages="true" static="false" />
+        <emptyLine />
         <package name="" withSubpackages="true" static="false" />
+        <emptyLine />
         <package name="" withSubpackages="true" static="true" />
+        <emptyLine />
       </value>
     </option>
   </JavaCodeStyleSettings>
@@ -33,6 +51,14 @@
     <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="1" />
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="1" />
+    <option name="BRACE_STYLE" value="2" />
+    <option name="CLASS_BRACE_STYLE" value="2" />
+    <option name="METHOD_BRACE_STYLE" value="2" />
+    <option name="LAMBDA_BRACE_STYLE" value="2" />
+    <option name="ELSE_ON_NEW_LINE" value="true" />
+    <option name="WHILE_ON_NEW_LINE" value="true" />
+    <option name="CATCH_ON_NEW_LINE" value="true" />
+    <option name="FINALLY_ON_NEW_LINE" value="true" />
     <option name="IF_BRACE_FORCE" value="1" />
     <option name="DOWHILE_BRACE_FORCE" value="1" />
     <option name="WHILE_BRACE_FORCE" value="1" />

@@ -10,8 +10,24 @@
           <option name="url" value="http://gitlab.com" />
           <option name="userName" value="miche.atucha@gmail.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/FabioCZ/NotificationRepeater.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/touwolf/customers/showshop-app" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/miche.atucha/invoicem-flutter.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/touwolf/customers/ccffaa/ccffaa-flutter.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Development/Touwolf" />
+    <option name="cloneParentDir" value="$USER_HOME$/Development/Third/ccffaa" />
   </component>
 </application>
